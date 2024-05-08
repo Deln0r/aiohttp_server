@@ -1,7 +1,7 @@
 ## Тестовое задание - создание сервера с использованием библиотеки aiohttp
 
 Тестируем GET:
-![img](https://drive.google.com/file/d/1q4dgRclF5v2S4s-uqz42MKz92U83mXKe/view)
+<img src="https://drive.google.com/file/d/1q4dgRclF5v2S4s-uqz42MKz92U83mXKe/view" alt="GET">
 
 Тестируем правильный POST:
 ![img](https://drive.google.com/file/d/1QxzXF0WT6qY-7K9ijdawq8gSeLrd0Nv4/view)
