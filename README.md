@@ -8,7 +8,7 @@
 ![GET](images/post200.png)
 
 Тестируем неправильный POST:
-![GET](images/get400.png)
+![GET](images/post400.png)
 
 Запускаем PyTest:
 ![GET](images/tests.png)
