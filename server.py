@@ -23,7 +23,7 @@ app.add_routes([web.get('/healthcheck', healthcheck),
                 web.post('/hash', hash_string)])
 
 @click.command()
-@click.option('--host', default='localhost', help='Host to bind.')
+@click.option('--host', default='0.0.0.0', help='Host to bind.')
 @click.option('--port', default=8080, help='Port to bind.')
 def run_server(host, port):
     """Запускает сервер aiohttp"""
