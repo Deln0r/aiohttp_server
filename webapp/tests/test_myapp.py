@@ -1,7 +1,7 @@
 import pytest
 import hashlib
 from aiohttp import web
-from ..server import healthcheck, hash_string
+from ..myapp import healthcheck, hash_string
 
 # Фикстура для создания клиента aiohttp и запуска приложения
 @pytest.fixture
